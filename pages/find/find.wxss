@@ -1,0 +1,8 @@
+.grey-lineD {
+    width: 750rpx;
+    height: 135rpx;
+    background: #eeeeee;
+}
+page{
+    background: #eeeeee;
+}

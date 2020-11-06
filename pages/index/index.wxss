@@ -1,0 +1,51 @@
+.msgBox {
+    width: 750rpx;
+    height: 137rpx;
+    position: relative;
+}
+
+.imgBox {
+    height: 137rpx;
+    width: 120rpx;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.msgImg {
+    width: 100rpx;
+    height: 107rpx;
+    margin-top: 15rpx;
+    margin-left: 10rpx;
+}
+
+.msg-group {
+    width: 630rpx;
+    height: 137rpx;
+    font-family: 宋体;
+    position: absolute;
+    right: 0;
+}
+
+.msg-title {
+    position: relative;
+    top: 30rpx;
+}
+
+.msg-short {
+    font-size: 25rpx;
+    font-weight: lighter;
+    position: absolute;
+    bottom: 30rpx;
+    left: 5rpx;
+    color: #999999;
+}
+
+.msg-date {
+    position: absolute;
+    font-size: 25rpx;
+    /* font-weight: lighter; */
+    color: #999999;
+    right: 10rpx;
+    top: 30rpx;
+}

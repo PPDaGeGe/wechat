@@ -1,0 +1,52 @@
+<view
+ class="friend-box"
+ wx:for="{{friend}}"
+ wx:key="id"
+ wx:for-index="i"
+>
+	<view class="Ls" wx:if="{{i==5}}">
+		J
+	</view>
+	<view class="Ls" wx:if="{{i==6}}">
+		L
+	</view>
+	<view class="Ls" wx:if="{{i==7}}">
+		M
+	</view>
+	<view class="Ls" wx:if="{{i==8}}">
+		S
+	</view>
+	<view class="Ls" wx:if="{{i==9}}">
+		X
+	</view>
+
+	<view class="basic-box">
+		<view class="img-box">
+			<image class="friend-img" src="/images/friend/{{i+1}}.jpg" />
+
+		</view>
+		<view class="f-name">
+			{{friend[i].name}}
+		</view>
+
+		<view class="bord" wx:if="{{bd[i]==i+1}}"></view>
+	</view>
+
+</view>
+<view class='letters-box'>
+	<view
+	 class="list"
+	 wx:for="{{letters}}"
+	 wx:key="id"
+	 wx:for-index="i"
+	>
+		<view class="letter-v">
+			{{letters[i]}}
+		</view>
+
+	</view>
+</view>
+<view class="contact">
+	5位联系人
+</view>
+

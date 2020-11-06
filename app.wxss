@@ -1,0 +1,50 @@
+.bord {
+    width: 630rpx;
+    height: 1rpx;
+    position: absolute;
+    bottom: 0;
+    left: 120rpx;
+    background: #dddddd;
+}
+
+.basic-box {
+    width: 750rpx;
+    height: 109rpx;
+    position: relative;
+    background: #fff;
+}
+
+.img-box {
+    width: 120rpx;
+    height: 109rpx;
+    position: relative;
+}
+
+.grey-line {
+    width: 750rpx;
+    height: 25rpx;
+    background: #eeeeee;
+}
+
+.basic-box image {
+    width: 69rpx;
+    height: 69rpx;
+    margin-top: 20rpx;
+    margin-left: 25rpx;
+    border-radius: 10rpx;
+}
+
+.basic-box .f-name {
+    width: 630rpx;
+    height: 109px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    line-height: 109rpx;
+}
+
+.right-arr {
+    color: #999999;
+    font-size: 50rpx;
+    font-weight: 200;
+}

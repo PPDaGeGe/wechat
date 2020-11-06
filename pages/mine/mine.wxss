@@ -1,0 +1,42 @@
+.mine {
+    height: 240rpx;
+    position: relative;
+    background: #fff;
+    width: 750rpx;
+}
+
+.mine image:nth-child(1) {
+    height: 160rpx;
+    width: 160rpx;
+    top: 40rpx;
+    left: 40rpx;
+    border-radius: 10rpx;
+    position: relative;
+}
+
+.name {
+    font-size: 40rpx;
+    font-weight: 600;
+    position: absolute;
+    top: 40rpx;
+    left: 230rpx;
+}
+
+.wxname {
+    font-size: 30rpx;
+    font-weight: 100;
+    position: absolute;
+    bottom: 80rpx;
+    left: 230rpx;
+}
+
+.mine image:last-child {
+    height: 30rpx;
+    width: 30rpx;
+    position: absolute;
+    bottom: 80rpx;
+    right: 100rpx;
+}
+page {
+    background: #eeeeee;
+  }

@@ -1,0 +1,28 @@
+.friend-box {
+    width: 750rpx;
+}
+
+.Ls {
+    background: #eeeeee;
+    padding-left: 30rpx;
+}
+
+.letters-box {
+    width: 40rpx;
+    position: absolute;
+    right: 30rpx;
+    top: 200rpx;
+}
+
+.list {
+    height: 30rpx;
+    width: 40rpx;
+    font-size: 20rpx;
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+    margin: 20rpx;
+    color: #999999;
+}

@@ -1,0 +1,80 @@
+<view class="find-box">
+	<view class="basic-box">
+		<image src='/images/find/0.jpg' />
+		<view class="f-name">
+			朋友圈
+		</view>
+	</view>
+	<view class="grey-line" />
+
+	<view class="basic-box">
+		<image src='/images/find/1.jpg' />
+		<view class="f-name">
+			视频号
+		</view>
+	</view>
+	<view class="grey-line" />
+
+	<view class="basic-box">
+		<image src='/images/find/2.jpg' />
+		<view class="f-name">
+			扫一扫
+		</view>
+		<view class="bord"></view>
+	</view>
+	<view class="basic-box">
+		<image src='/images/find/3.jpg' />
+		<view class="f-name">
+			摇一摇
+		</view>
+	</view>
+	<view class="grey-line" />
+
+	<view class="basic-box">
+		<image src='/images/find/4.jpg' />
+		<view class="f-name">
+			看一看
+		</view>
+		<view class="bord"></view>
+	</view>
+	<view class="basic-box">
+		<image src='/images/find/5.jpg' />
+		<view class="f-name">
+			搜一搜
+		</view>
+	</view>
+	<view class="grey-line" />
+
+	<view class="basic-box">
+		<image src='/images/find/timg.jpg' />
+		<view class="f-name">
+			附近的0
+		</view>
+	</view>
+	<view class="grey-line" />
+
+	<view class="basic-box">
+		<image src='/images/find/7.jpg' />
+		<view class="f-name">
+			购物
+		</view>
+		<view class="bord"></view>
+	</view>
+	<view class="basic-box">
+		<image src='/images/find/8.jpg' />
+		<view class="f-name">
+			游戏
+		</view>
+	</view>
+	<view class="grey-line" />
+
+	<view class="basic-box">
+		<image src='/images/find/9.jpg' />
+		<view class="f-name">
+			小程序
+		</view>
+	</view>
+	<!-- <view class="grey-lineD" /> -->
+
+</view>
+

@@ -1,0 +1,55 @@
+<view class="mine">
+	<image src="/images/mine/caps.jpg" />
+	<view class="name">
+		IG ShowMaker
+	</view>
+	<view class="wxname">
+		微信号: pocksolo
+	</view>
+	<image src="/images/mine/ma.jpg">
+
+	</image>
+</view>
+
+<view class="grey-line"></view>
+<view class="basic-box">
+	<image src="/images/mine/0.jpg" />
+	<view class="f-name">
+		支付
+	</view>
+
+</view>
+<view class="grey-line"></view>
+
+<view class="basic-box">
+	<image src="/images/mine/1.jpg" />
+	<view class="f-name">收藏</view>
+	<view class="bord"></view>
+</view>
+
+<view class="basic-box">
+	<image src="/images/mine/2.jpg" />
+	<view class="f-name">相册</view>
+	<view class="bord"></view>
+
+</view>
+
+<view class="basic-box">
+	<image src="/images/mine/3.jpg" />
+	<view class="f-name">卡包</view>
+	<view class="bord"></view>
+
+</view>
+
+<view class="basic-box">
+	<image src="/images/mine/4.jpg" />
+	<view class="f-name">表情</view>
+</view>
+<view class="grey-line"></view>
+<view class="basic-box">
+	<image src="/images/mine/5.jpg" />
+	<view class="f-name">设置</view>
+
+</view>
+
+

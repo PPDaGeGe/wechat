@@ -1,0 +1,23 @@
+<view
+ class="msgBox"
+ wx:for="{{msgSets}}"
+ wx:for-index="i"
+ wx:key="id"
+>
+	<view class="imgBox">
+		<image class="msgImg" src='/images/index/{{i+1}}.jpg' />
+	</view>
+
+	<view class="msg-group">
+		<view class="msg-title">{{msgSets[i].title}}</view>
+		<view class="msg-short">{{msgSets[i].msg}}</view>
+		<view class="msg-date">{{msgSets[i].date}}</view>
+	</view>
+
+	<view wx:if="{{i<msgSets.length-1}}">
+		<view class="bord">
+		</view>
+	</view>
+
+</view>
+
